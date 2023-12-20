@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,400;0,700;1,400&family=Rubik+Doodle+Shadow&display=swap');
+.background_rz {
+
+background-color: rgb(133, 60, 38);
+}
+.fries{
+    color: yellow;
+    font-style: italic;
+}
+.chicken{
+    color: #f0c4cc;
+}
+body.background_rz{
+    color: aliceblue;
+    font-family:'Comic Neue', cursive;
+
+}
+.breadcrumbs{
+    color: burlywood;
+    font-size: larger;
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
