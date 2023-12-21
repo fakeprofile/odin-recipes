@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,400;0,700;1,400&family=Rubik+Doodle+Shadow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 .background_rz {
 
 background-color: rgb(133, 60, 38);
@@ -20,4 +23,52 @@ body.background_rz{
     font-size: larger;
     font-style: bold;
     font-family: 'Times New Roman', Times, serif;
+}
+.sv{
+    color: rgb(134, 85, 10);
+    font-style: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.stp {
+    color: rgb(253, 18, 18);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.nt {
+    color: rgb(199, 193, 193);
+    font-style: bold;
+    
+}
+.ds {
+    color: antiquewhite;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size: large;
+}
+.background_sv {
+    background-color: peru;
+}
+
+.background_kvz{
+    background-color: coral;
+}
+
+.pk {
+    color: #ffd8c7
+    ;
+}
+.dum{
+    color: beige;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    ;
+}
+.sr{
+    color: rgb(212, 255, 169)
+    ;
+    font-style: italic;
+    font-family:'Courgette';
 }
