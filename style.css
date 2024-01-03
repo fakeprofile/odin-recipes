@@ -2,8 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    margin: 0%;
+}
 .background_rz {
-
 background-color: rgb(133, 60, 38);
 }
 .fries{
@@ -75,8 +78,63 @@ body.background_rz{
 .zeman{
     border: 25px solid gold;
     border-radius: 15px;
+    margin: 2px 0px 2px 0px;
 }
 .bordel{
     border: 5px solid rgb(71, 179, 50);
     border-radius: 3px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    flex: 2;
+    gap: 100px;
+    
+}
+.bgr{
+    background-color: rgb(182, 24, 24);
+}
+.cnt{
+align-items: center;
+}
+.idc{
+    justify-content: center;
+}
+.tx1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: beige;
+}
+.txs{
+    list-style: none;
+}
+.txs li{
+    display: inline-block;
+    margin-right: 15px ;
+}
+.txs li a{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration:none
+}
+.txs li a:hover{
+    color: goldenrod;
+    text-decoration: underline;
+}
+.brb{
+    border:rgb(57, 66, 146) solid 5px;
+    background-color: rgb(182, 24, 24);
+    padding: 5px;
+}
+.txm{
+    margin: 0px 0px 0px 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+.list{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
 }
